@@ -1,7 +1,43 @@
 <div align="center">
 
   <!-- Dynamic Waving Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,24,30,42&height=260&section=header&text=Nguy%E1%BB%85n%20T%E1%BA%A5t%20Trung&fontSize=52&fontAlignY=36&desc=AI%20Engineer%20%E2%9C%A8%20ML%20Engineer%20%E2%9C%A8%20Data%20Analyst&descAlignY=56&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,24,30,42&height=220&section=header&text=Welcome%20to%20my%20Space&fontSize=38&fontAlignY=36" width="100%"/>
+
+</div>
+
+<!-- Hero Profile Header: Avatar + Intro + Social Badges -->
+<table align="center" width="100%">
+  <tr>
+    <td align="center" valign="middle" width="165" style="border: none;">
+      <a href="https://github.com/kenG-8">
+        <img src="assets/avatar.png" width="145" alt="Nguyễn Tất Trung" style="border-radius: 50%;" />
+      </a>
+    </td>
+    <td valign="middle" style="border: none;">
+      <h1 style="border-bottom: none; margin-bottom: 2px;">Nguyễn Tất Trung 👋</h1>
+      <p style="font-size: 16px; margin-top: 4px; margin-bottom: 8px;">
+        🚀 <b>AI Engineer • ML Engineer • Data Analyst</b><br/>
+        🎓 <i>Khoa Công nghệ Thông tin — Trường Đại học Công nghệ, ĐHQGHN (UET - VNU)</i>
+      </p>
+      <p>
+        <a href="mailto:kengtop24@gmail.com" target="_blank">
+          <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="26" alt="Gmail" />
+        </a>
+        <a href="https://x.com/imissher61" target="_blank">
+          <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="26" alt="X" />
+        </a>
+        <a href="https://www.instagram.com/trungg.24/" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="26" alt="Instagram" />
+        </a>
+        <a href="https://github.com/kenG-8" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="26" alt="GitHub" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
 
   <!-- Live Visitor Counter & Status Badges -->
   <p align="center">
@@ -16,22 +52,6 @@
   </a>
 
   <br/>
-
-  <!-- Interactive Social & Contact Badges -->
-  <p align="center">
-    <a href="mailto:kengtop24@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    <a href="https://x.com/imissher61" target="_blank">
-      <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-    </a>
-    <a href="https://www.instagram.com/trungg.24/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="https://github.com/kenG-8" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
 
   <!-- GitHub Achievement Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=kenG-8&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
